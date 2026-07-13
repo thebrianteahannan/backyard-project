@@ -6,6 +6,7 @@ DIY guides for a Tampa, Florida backyard.
 
 - `Tampa_Bahiagrass_Overseeding_Guide.pdf` — fill-in seeding plan for Bahiagrass lawns
 - `Tampa_Full_Sun_Garden_Tips.pdf` — tips for an all-day-sun vegetable/flower bed
+- `Cinnamon_Gardening_Guide.pdf` — benefits and how-to for using cinnamon on seedlings & cuttings
 
 Regenerate PDFs with:
 
@@ -13,4 +14,5 @@ Regenerate PDFs with:
 pip3 install reportlab
 python3 create_bahiagrass_guide.py
 python3 create_tampa_garden_tips.py
+python3 create_cinnamon_guide.py
 ```
